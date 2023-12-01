@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457087090605",
+    "project_id": "newecommerce-a16aa",
+    "storage_bucket": "newecommerce-a16aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457087090605:android:1b71e794ea654aea77ab24",
+        "android_client_info": {
+          "package_name": "com.example.elixir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwwl-Na0PAqBvs_f-5qwC7upzwieQ7Hkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
